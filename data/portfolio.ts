@@ -2,7 +2,7 @@
 
 export const profile = {
   name: "harada daisuke",
-  role: "見習いエンジニア、PAエンジニア",
+  role: "見習いエンジニア、PAエンジニア.",
   bio: "自己紹介文をここに書いてください。経歴や興味のある分野など、自由に書きましょう。",
   avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
 };
