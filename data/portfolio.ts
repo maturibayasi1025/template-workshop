@@ -2,9 +2,9 @@
 
 export const profile = {
   name: "松本伊蕗",
-  role: "未来のwebエンジニア",
-  bio: "趣味は猫を愛でることとゲームすること、",
-  avatarUrl: "/images/avatar.IMG_2886.HEIC", // public/images/ に画像を置いてパスを指定
+  role: "エンジニア志望",
+  bio: "大阪在住、猫とゲームが毎日の癒し",
+  avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
 };
 
 export const skills = [
@@ -29,6 +29,6 @@ export const projects = [
 ];
 
 export const contact = {
-  github: "https://github.com/あなたのユーザー名",
-  email: "あなたのメールアドレス（任意）",
+  github: "https://github.com/matsumotoibuki",
+  email: "aqua.niko27@gmail.com",
 };
