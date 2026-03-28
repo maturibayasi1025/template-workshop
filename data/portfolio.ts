@@ -1,17 +1,20 @@
 // ★ ポートフォリオの内容をここに編集してください
 
 export const profile = {
-  name: "あなたの名前",
-  role: "あなたの肩書き（例：Webエンジニア）",
-  bio: "自己紹介文をここに書いてください。経歴や興味のある分野など、自由に書きましょう。",
-  avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
+  name: "松本伊蕗",
+  role: "未来のwebエンジニア",
+  bio: "趣味は猫を愛でることとゲームすること、",
+  avatarUrl: "/images/avatar.IMG_2886.HEIC", // public/images/ に画像を置いてパスを指定
 };
 
 export const skills = [
-  { name: "JavaScript", level: "学習中" },
-  { name: "React", level: "学習中" },
-  { name: "TypeScript", level: "学習中" },
-  { name: "Next.js", level: "学習中" },
+  { name: "HTML・CSS", level: "学習中" },
+  { name: "JavaScript", level: "学習予定" },
+  { name: "DB", level: "学習予定" },
+  { name: "Linux", level: "学習予定" },
+  { name: "Docker", level: "学習予定"},
+  { name: "Java", level: "学習予定"},
+
   // 追加・削除してOK
 ];
 
