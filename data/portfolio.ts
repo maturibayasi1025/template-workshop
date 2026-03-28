@@ -1,11 +1,9 @@
 // ★ ポートフォリオの内容をここに編集してください
 
 export const profile = {
- feature/matsumoto-portfolio
   name: "松本伊蕗",
   role: "エンジニア志望",
   bio: "大阪在住、猫とゲームが毎日の癒し",
- feature/matsumoto-portfolio
   avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
 };
 
