@@ -1,31 +1,30 @@
 // ★ ポートフォリオの内容をここに編集してください
 
 export const profile = {
-  name: "sekiguchi",
-  role: "webエンジニア",
-  bio: "自己紹介文をここに書いてください。経歴や興味のある分野など、自由に書きましょう。",
-  avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
+  name: "danbo",
+  role: "広告プロダクトマネージャー",
+  bio: "本職は広告プロダクト開発のマネジメントをやってます。かたわらNPO法人の理事長やってます。",
+  avatarUrl: "/images/hosoda.png", // public/images/ に画像を置いてパスを指定
 };
 
 export const skills = [
-  { name: "JavaScript", level: "学習中" },
-  { name: "React", level: "学習中" },
-  { name: "TypeScript", level: "学習中" },
-  { name: "Next.js", level: "学習中" },
+  { name: "html/css", level: "それなり" },
+  { name: "SQL", level: "少しだけ" },  
+  { name: "GAS", level: "GEMINIに聞きながらやってる" },
   // 追加・削除してOK
 ];
 
 export const projects = [
   {
-    title: "プロジェクト名",
-    description: "どんなものを作ったか、簡単な説明を書いてください。",
-    techStack: ["Next.js", "TypeScript"],
-    url: "https://github.com/あなたのユーザー名/リポジトリ名",
+    title: "スポーツ予約システム",
+    description: "ユーザーが予約したら自動的にスプシに反映してくれるやつ。",
+    techStack: ["GAS", " 簡易SQL"],
+    url: "githubには上げてない、GASもgitで管理できるのか。",
   },
   // 複数追加できます
 ];
 
 export const contact = {
-  github: "https://github.com/あなたのユーザー名",
-  email: "あなたのメールアドレス（任意）",
+  github: "https://github.com/danbo-suposar",
+  email: "danbo@suposar.com",
 };
