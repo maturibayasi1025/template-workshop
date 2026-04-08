@@ -1,9 +1,9 @@
 // ★ ポートフォリオの内容をここに編集してください
 
 export const profile = {
-  name: "sekiguchi",
-  role: "webエンジニア",
-  bio: "自己紹介文をここに書いてください。経歴や興味のある分野など、自由に書きましょう。",
+  name: "harada daisuke",
+  role: "見習いエンジニア、PAエンジニア",
+  bio: "原田大輔と申します。日々勉強しながら社会の悩みを解決できるエンジニアを目指しています。また個人でPAエンジニアを行っています",
   avatarUrl: "/images/avatar.jpg", // public/images/ に画像を置いてパスを指定
 };
 
@@ -26,6 +26,6 @@ export const projects = [
 ];
 
 export const contact = {
-  github: "https://github.com/あなたのユーザー名",
-  email: "あなたのメールアドレス（任意）",
+  github: "https://github.com/DaisukeHarada1110",
+  email: "h.daisuke@gmail.com",
 };

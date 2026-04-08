@@ -12,7 +12,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
       <body className="min-h-screen bg-gray-50 text-gray-800">
         <header className="bg-white shadow-sm">
           <div className="mx-auto max-w-4xl px-4 py-4">
-            <h1 className="text-lg font-bold text-gray-700">My Portfolio</h1>
+            <h1 className="text-lg font-bold text-gray-700">原田大輔のPortfolio</h1>
           </div>
         </header>
         <main className="mx-auto max-w-4xl px-4 py-10">{children}</main>
